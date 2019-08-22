@@ -4,3 +4,8 @@
 #margenes-tarjetas{
 	margin-top: 20px;
 }
+@media screen and (max-width: 991px) {
+	#lista {
+	  display: none;
+	}
+}
